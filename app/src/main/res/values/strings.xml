@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="hint_to">Name of birthday boy/girl</string>
+    <string name="hint_from">Enter your name</string>
+    <string name="submit">Submit</string>
+    <string name="demoCardFromText">Happy Birthday ABC</string>
+    <string name="demoCardToText">From XYZ</string>
+    <string name="mainCardFromText">From %s</string>
+    <string name="mainCardToText">Happy Birthday %s</string>
+</resources>
